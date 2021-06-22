@@ -1,0 +1,39 @@
+name: PM-essentials
+main: essentials\Main
+version: 1.0.0-BETA
+api: 3.21.0
+
+commands:
+  gm:
+    description: Change your gamemode
+    permission: gm.command
+  day:
+    description: Set the time to day
+    permission: time.command
+  night:
+    description: Set the time to night
+    permission: time.command
+  feed:
+    description: Still your hunger
+    permission: feed.command
+  heal:
+    description: Fill your health
+    permission: heal.command
+  chatclear:
+    description: Clear the chat
+    permission: chatclear.command
+    aliases: [cc]
+    
+permissions:
+  gm.command:
+    default: OP
+  day.command:
+    default: OP
+  night.command:
+    default: OP
+  feed.command:
+    default: OP
+  heal.command:
+    default: OP
+  chatclear.command:
+    default: OP
