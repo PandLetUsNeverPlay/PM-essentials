@@ -1,0 +1,24 @@
+#permission
+
+no-permission: §cYou do not have permission to use this command!
+
+#gamemode wrong usage message
+
+gm-wrong-usage: §cUsage: /gm 0/1/2/3
+
+#gamemode messages
+
+gm0-message: §aYou've changed your gamemode to survival!
+gm1-message: §aYou've changed your gamemode to creative!
+gm2-message: §aYou've changed your gamemode to adventure!
+gm3-message: §aYou've changed your gamemode to spectator!
+
+#time messages
+
+day-message: §eYou've changed the time to day!
+night-message: §1You've changed the time to night!
+
+#feed and heal messages
+
+feed-message: §6You've stilled your hunger!
+heal-message: §cYou've filled your health bar!
