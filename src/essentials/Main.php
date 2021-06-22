@@ -1,5 +1,10 @@
 <?php
 
+//Copyright © 2021 LePandiLP
+//YouTube: https://youtube.com/channel/UCiOrt51MGXG9L3I5QM3Bq9Q
+//Github: https://github.com/LePandiLP
+//Discord: LePandiLP#9036
+
 namespace essentials;
 
 use pocketmine\plugin\PluginBase;
