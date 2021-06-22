@@ -4,6 +4,6 @@ branches:
 - main
 projects:
   PM-essentials:
-    icon: "icon.ping"
+    icon: "icon.png"
     path: ""
 ...
