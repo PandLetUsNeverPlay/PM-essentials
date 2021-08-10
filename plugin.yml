@@ -1,7 +1,7 @@
 name: PM-essentials
 main: essentials\Main
 version: 1.0.0-BETA
-api: 3.21.0
+api: 3.22.1
 
 commands:
   gm:
